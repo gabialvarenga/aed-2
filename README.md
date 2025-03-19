@@ -1,4 +1,4 @@
-# Exercícios de Aprendizado - Algoritmos e Estruturas de Dados II
+# Algoritmos e Estruturas de Dados II
 
 Este repositório contém os exercícios práticos realizados na disciplina **Algoritmos e Estruturas de Dados II**, correspondente ao terceiro período do curso de graduação em Engenharia de Software da PUC Minas.
 
