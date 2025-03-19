@@ -1,8 +1,9 @@
 # Algoritmos e Estruturas de Dados II
+Repositório com os exercícios desenvolvidos na disciplina **Algoritmos e Estrutura de Dados II** do 3º período do curso de **Engenharia de Software** na **PUC Minas**.
 
-Este repositório contém os exercícios práticos realizados na disciplina **Algoritmos e Estruturas de Dados II**, correspondente ao terceiro período do curso de graduação em Engenharia de Software da PUC Minas.
+Todos os exercícios resolvidos por mim durante a disciplina estão disponíveis neste repositório.
 
-Os enunciados dos exercícios foram elaborados pela professora **Eveline Alonso**.
+As atividades foram elaborados pela professora **Eveline Alonso**.
 
 ## Conceitos Abordados
 
